@@ -2,9 +2,10 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>1899.12.30 00:00:00.000.217,=C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020.01.27 14:02:22.961,=C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020.01.27 14:03:57.360,C:\Users\rinat\OneDrive\Рабочий стол\Новая папка\Unit1.dfm=C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
-    <Transaction>2020.01.27 14:03:57.360,C:\Users\rinat\OneDrive\Рабочий стол\Новая папка\Unit1.pas=C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020.01.27 14:03:59.103,C:\Users\rinat\OneDrive\Рабочий стол\Новая папка\Project1.dproj=C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.961,=C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\rinat\OneDrive\Рабочий стол\Новая папка\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.360,C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\rinat\OneDrive\Рабочий стол\Новая папка\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.103,C:\Users\rinat\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\rinat\OneDrive\Рабочий стол\Новая папка\Project1.dproj</Transaction>
+    <Transaction>2020.01.27 14:17:09.822,=D:\745\123\Unit2.pas</Transaction>
   </Transactions>
 </BorlandProject>
